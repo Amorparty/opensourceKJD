@@ -1,0 +1,27 @@
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.AddMemberForm.resources
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.loginForm.resources
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.MainForm.resources
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.Properties.Resources.resources
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.exe.config
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.exe
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\bin\Debug\Login.pdb
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.exe
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\obj\Debug\Login.pdb
+c:\users\daejung\documents\visual studio 2017\Projects\Login\Login\bin\Debug\MySql.Data.dll
+C:\Users\songminsang\Desktop\Login\Login\bin\Debug\Login.exe.config
+C:\Users\songminsang\Desktop\Login\Login\bin\Debug\Login.exe
+C:\Users\songminsang\Desktop\Login\Login\bin\Debug\Login.pdb
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.csprojResolveAssemblyReference.cache
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.AddMemberForm.resources
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.loginForm.resources
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.MainForm.resources
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.Properties.Resources.resources
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.exe
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.pdb
+C:\Users\songminsang\Desktop\Login\Login\obj\Debug\Login.rss.resources
+C:\Users\user\Desktop\Login\Login\Login\bin\Debug\Login.exe.config
+C:\Users\user\Desktop\Login\Login\Login\obj\Debug\Login.exe
+C:\Users\user\Desktop\Login\Login\Login\obj\Debug\Login.pdb
