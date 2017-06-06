@@ -16,7 +16,7 @@ namespace UI_design
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new schedulefrom());
         }
     }
 }

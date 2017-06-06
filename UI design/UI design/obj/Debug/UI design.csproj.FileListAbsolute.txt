@@ -143,3 +143,10 @@ C:\Users\sunmoon\Desktop\ㅇㅍ\UI\UI design\UI design\bin\Debug\es\DevExpress.O
 C:\Users\sunmoon\Desktop\ㅇㅍ\UI\UI design\UI design\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
 C:\Users\sunmoon\Desktop\ㅇㅍ\UI\UI design\UI design\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
 C:\Users\sunmoon\Desktop\ㅇㅍ\UI\UI design\UI design\obj\Debug\UI design.exe.licenses
+C:\Users\Peter Kim\Documents\opensourceKJD\UI design\UI design\obj\Debug\UI design.csprojResolveAssemblyReference.cache
+C:\Users\Peter Kim\Documents\opensourceKJD\UI design\UI design\obj\Debug\UI_design.Form1.resources
+C:\Users\Peter Kim\Documents\opensourceKJD\UI design\UI design\obj\Debug\UI_design.Properties.Resources.resources
+C:\Users\Peter Kim\Documents\opensourceKJD\UI design\UI design\obj\Debug\UI design.csproj.GenerateResource.Cache
+C:\Users\Peter Kim\Documents\opensourceKJD\UI design\UI design\obj\Debug\UI design.exe.licenses
+C:\Users\Peter Kim\Documents\opensourceKJD\UI design\UI design\obj\Debug\UI design.exe
+C:\Users\Peter Kim\Documents\opensourceKJD\UI design\UI design\obj\Debug\UI design.pdb

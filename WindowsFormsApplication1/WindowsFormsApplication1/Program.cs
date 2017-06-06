@@ -15,7 +15,20 @@ namespace WindowsFormsApplication1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new login());
+
+            menuform mf = new menuform();
+            scheduleform sf = new scheduleform();
+
+
+            //menuform mf = new menuform();
+            //Application.Run(mf);
+
+           // Application.Run(new login());
+            
+           // Application.Run(new scheduleform());
+          
+
         }
     }
 }
