@@ -1,10 +1,10 @@
-C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.login.resources
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.menuform.resources
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.scheduleform.resources
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe.licenses
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DevExpress.Data.v17.1.dll
@@ -101,3 +101,6 @@ C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsForms
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
 C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WSE_Core.dll
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WSE_Core.pdb
