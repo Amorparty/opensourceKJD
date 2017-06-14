@@ -1,0 +1,6 @@
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WSE_Core3\bin\Debug\netstandard1.4\WSE_Core3.deps.json
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WSE_Core3\bin\Debug\netstandard1.4\WSE_Core3.dll
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WSE_Core3\bin\Debug\netstandard1.4\WSE_Core3.pdb
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WSE_Core3\obj\Debug\netstandard1.4\WSE_Core3.AssemblyInfo.cs
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WSE_Core3\obj\Debug\netstandard1.4\WSE_Core3.dll
+C:\Users\Peter Kim\Documents\opensourceKJD\WindowsFormsApplication1\WSE_Core3\obj\Debug\netstandard1.4\WSE_Core3.pdb
